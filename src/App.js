@@ -19,6 +19,11 @@ function App() {
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route exact path="/SNEAKY_MAIN" element={<Home />} />
+        <Route
+          exact
+          path="/surajkalyampud.github.io/SNEAKY_MAIN/"
+          element={<Home />}
+        />
         <Route exact path="/home" element={<Home />} />
         <Route exact path="/signup" element={<Signup />} />
         <Route exact path="/login" element={<Login />} />
