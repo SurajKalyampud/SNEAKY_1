@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/SNEAKY_MAIN/static/css/main.b2f78d17.css",
-    "main.js": "/SNEAKY_MAIN/static/js/main.f3b36882.js",
-    "static/js/787.d81f3025.chunk.js": "/SNEAKY_MAIN/static/js/787.d81f3025.chunk.js",
-    "static/media/Sneaker2.png": "/SNEAKY_MAIN/static/media/Sneaker2.d16445bfed79a8a2a338.png",
-    "static/media/Wallpaper.png": "/SNEAKY_MAIN/static/media/Wallpaper.ca6a431844c8cacae9f5.png",
-    "static/media/slide1.webp": "/SNEAKY_MAIN/static/media/slide1.1c4a9eba456340fb7028.webp",
-    "static/media/Sneaker1.png": "/SNEAKY_MAIN/static/media/Sneaker1.8d4c8186638015dcf458.png",
-    "static/media/jordan1.png": "/SNEAKY_MAIN/static/media/jordan1.d631eac994f18ae69198.png",
-    "static/media/Applogo1.png": "/SNEAKY_MAIN/static/media/Applogo1.7f800bb68e8a91017eab.png",
-    "static/media/revicons.eot": "/SNEAKY_MAIN/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/SNEAKY_MAIN/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/SNEAKY_MAIN/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/SNEAKY_MAIN/index.html",
-    "main.b2f78d17.css.map": "/SNEAKY_MAIN/static/css/main.b2f78d17.css.map",
-    "main.f3b36882.js.map": "/SNEAKY_MAIN/static/js/main.f3b36882.js.map",
-    "787.d81f3025.chunk.js.map": "/SNEAKY_MAIN/static/js/787.d81f3025.chunk.js.map"
+    "main.css": "/static/css/main.0d8f67c6.css",
+    "main.js": "/static/js/main.fed29047.js",
+    "static/js/787.d81f3025.chunk.js": "/static/js/787.d81f3025.chunk.js",
+    "static/media/Sneaker2.png": "/static/media/Sneaker2.d16445bfed79a8a2a338.png",
+    "static/media/Wallpaper.png": "/static/media/Wallpaper.ca6a431844c8cacae9f5.png",
+    "static/media/slide1.webp": "/static/media/slide1.1c4a9eba456340fb7028.webp",
+    "static/media/Sneaker1.png": "/static/media/Sneaker1.8d4c8186638015dcf458.png",
+    "static/media/jordan1.png": "/static/media/jordan1.d631eac994f18ae69198.png",
+    "static/media/Applogo1.png": "/static/media/Applogo1.7f800bb68e8a91017eab.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.0d8f67c6.css.map": "/static/css/main.0d8f67c6.css.map",
+    "main.fed29047.js.map": "/static/js/main.fed29047.js.map",
+    "787.d81f3025.chunk.js.map": "/static/js/787.d81f3025.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2f78d17.css",
-    "static/js/main.f3b36882.js"
+    "static/css/main.0d8f67c6.css",
+    "static/js/main.fed29047.js"
   ]
 }
