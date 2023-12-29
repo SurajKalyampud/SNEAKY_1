@@ -11,14 +11,14 @@ import Allproductpage from "./Components/Some-Product-Components/Allproductpage"
 import Specificproductpage from "./Components/Some-Product-Components/Specificproductpage";
 import Proceed from "./Components/Proceed";
 import Checkout from "./Components/Checkout";
-import Payment from './Components/Payment'
-
+import Payment from "./Components/Payment";
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
         <Route exact path="/" element={<Home />} />
+        <Route exact path="/SNEAKY_MAIN" element={<Home />} />
         <Route exact path="/home" element={<Home />} />
         <Route exact path="/signup" element={<Signup />} />
         <Route exact path="/login" element={<Login />} />
@@ -46,13 +46,12 @@ function App() {
           element={<Allproductpage type={"BASKETBALLSHOES"} />}
         />
 
-        <Route path="/product/:type/:id/" element={<Specificproductpage />}/>
-        <Route path="/products/:type/:id/" element={<Specificproductpage />}/>
-        <Route path="/Proceed" element={<Proceed />}/>
+        <Route path="/product/:type/:id/" element={<Specificproductpage />} />
+        <Route path="/products/:type/:id/" element={<Specificproductpage />} />
+        <Route path="/Proceed" element={<Proceed />} />
 
         <Route exact path="/cartdata" element={<Cart />} />
         <Route exact path="/Checkout" element={<Checkout />} />
-
 
         <Route exact path="*" element={<PgFOF />} />
       </Routes>
